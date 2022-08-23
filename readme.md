@@ -98,7 +98,7 @@ Git позволяет работать с несколькими удаленн
 ![alt text](https://i.imgur.com/tFLkpzy.png)
 
 
-t### Установка расширений (см. скриншот):
+### Установка расширений (см. скриншот):
 
 
 ![alt text](https://i.imgur.com/KdEiHLe.png)
